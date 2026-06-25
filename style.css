@@ -285,16 +285,19 @@ aside div ul li{
 }
 
 .tercero{
+    position: relative;
     box-shadow: -30px 0px var(--amarillo), 1px 1px 5px rgb(0,0,0,0.1);
     border-radius: 20px;
 }
 
 .primero{
+    position: relative;
     box-shadow: -30px 0px var(--verde), 1px 1px 5px rgb(0,0,0,0.1);
     border-radius: 20px;
 }
 
 .segundo{
+    position: relative;
     box-shadow: -30px 0px var(--azul), 1px 1px 5px rgb(0,0,0,0.1);
     border-radius: 20px;
 }
