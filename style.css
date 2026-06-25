@@ -135,7 +135,7 @@ aside img{
 
 aside article{
     background-color: #ede4e0;
-    mx-width: 400px;
+    max-width: 400px;
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 1px 1px 10px rgb(0,0,0,0.5);
@@ -163,7 +163,7 @@ aside h2{
     text-align: center;
     padding: 10px;
     border-radius: 15px;
-    width: 400px;
+    max-width: 400px;
 }
 
 aside div{
@@ -176,7 +176,7 @@ aside div{
 
 aside div ol{
     background-color: #ede4e0;
-    width: 340px;
+    max-width: 340px;
     padding: 30px;
     border-radius: 15px;
     box-shadow: 1px 1px 10px rgb(0,0,0,0.5);
