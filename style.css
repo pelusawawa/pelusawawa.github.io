@@ -383,3 +383,16 @@ section div ol li{
 .logo span{
     color: #9d6c11;
 }
+
+@media (max-width: 800px){
+    main{
+        flex-direction: column;
+    }
+    .div-orgs{
+        display: flex;
+        flex-direction: column;
+    }
+    nav{
+        display: none;
+    }
+}
